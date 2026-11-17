@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [
+      107,
+      0
+    ],
+    "max_format": [
+      108,
+      0
+    ],
+    "pack_format": 107,
+    "description": "Enchant QoL: treasure enchants in the table, top levels reachable at 30"
+  }
+}
